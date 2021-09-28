@@ -1,4 +1,5 @@
 # Qué es el proyecto?
+En este proyecto implemente Redux para probar su funcionamiento manejando el estado haciendo tambien una peticion REST a una API con Axios
 
 # Comandos
 npx create-react-app / npm i axios react-router-dom redux react-redux
